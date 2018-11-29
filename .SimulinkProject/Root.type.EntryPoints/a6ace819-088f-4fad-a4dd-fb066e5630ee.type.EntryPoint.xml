@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Info Type="StartUp" Visible="0" Icon="" File="flight_params.mat" Name="flight_params">
+    <Extension Value="c7392fab-2bc1-4a4e-815a-dfd47a33784d" Name="StartUpPrev" />
+</Info>
